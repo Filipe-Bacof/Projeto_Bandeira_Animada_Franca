@@ -17,7 +17,7 @@ body {
 .flag_img {
     position: relative;
     /* para mudar a bandeira é só trocar a imagem abaixo*/
-    background-image: url("france.jpg");
+    background-image: url("gremio.jpg");
     background-size: 300px 180%;
     width: 1px;
     height: 100%;
